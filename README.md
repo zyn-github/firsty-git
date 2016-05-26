@@ -1,2 +1,2 @@
 # firsty-git
-my
+my first git commit

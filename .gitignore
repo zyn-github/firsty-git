@@ -1,6 +1,3 @@
 # Ignore everything in this directory 
 * 
 # Except this file !.gitignore 
-/css/
-/image/
-/js/
